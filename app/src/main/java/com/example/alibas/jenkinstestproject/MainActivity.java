@@ -16,4 +16,14 @@ public class MainActivity extends AppCompatActivity {
         //test
         //test
     }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
 }
