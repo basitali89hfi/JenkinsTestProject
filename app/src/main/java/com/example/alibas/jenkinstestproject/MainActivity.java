@@ -32,6 +32,21 @@ public class MainActivity extends AppCompatActivity {
         super.onPause();
     }
 
+    //Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
+//Test comment
     @Override
     protected void onStop() {
         super.onStop();
