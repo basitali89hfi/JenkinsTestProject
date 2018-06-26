@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this,"message",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"clicked",Toast.LENGTH_SHORT).show();
             }
         });
     }
