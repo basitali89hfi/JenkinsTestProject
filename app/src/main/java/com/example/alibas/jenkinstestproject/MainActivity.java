@@ -36,7 +36,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onStop() {
         super.onStop();
     }
-
+//Test comment
+//Test comment
+//Test comment
     @Override
     protected void onDestroy() {
         super.onDestroy();
