@@ -22,8 +22,9 @@
         android:layout_height="wrap_content"
         android:text="Show message"
         app:layout_constraintTop_toTopOf="@+id/textView"
-        tools:layout_editor_absoluteX="148dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteX="145dp"
+        tools:ignore="MissingConstraints"
+        android:layout_marginTop="48dp" />
 
 
 </android.support.constraint.ConstraintLayout>
